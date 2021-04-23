@@ -12,6 +12,7 @@
                 "aws-portal:*",
                 "awsbillingconsole:*",
                 "budgets:*",
+                "chatbot:*",
                 "ce:*",
                 "chime:*",
                 "cloudfront:*",
