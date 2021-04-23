@@ -56,8 +56,7 @@
                 },
                 "ArnNotLike": {
                     "aws:PrincipalARN": [
-                        "arn:aws:iam::*:role/Role1AllowedToBypassThisSCP",
-                        "arn:aws:iam::*:role/Role2AllowedToBypassThisSCP"
+                        "arn:aws:iam::*:role/aws-reserved/sso.amazonaws.com/AWSReservedSSO_AdministratorAccessWRR_*"
                     ]
                 }
             }
